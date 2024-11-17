@@ -1,0 +1,1 @@
+$\frac{d_w}{d_{x_i}} = -\frac{sin(\frac{\theta}{2})}$

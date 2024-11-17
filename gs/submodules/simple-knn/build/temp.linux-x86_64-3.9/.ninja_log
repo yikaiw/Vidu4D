@@ -1,0 +1,4 @@
+# ninja log v5
+0	37927	1722697284182704303	/pfs/mt-1oY5F7/liuguangce/program-vidu/4dcode-8.3/gs/submodules/simple-knn/build/temp.linux-x86_64-3.9/simple_knn.o	7d831e47f4f55342
+0	91068	1722697324861385620	/pfs/mt-1oY5F7/liuguangce/program-vidu/4dcode-8.3/gs/submodules/simple-knn/build/temp.linux-x86_64-3.9/ext.o	ed8f7de5779cca65
+0	91082	1722697337966918874	/pfs/mt-1oY5F7/liuguangce/program-vidu/4dcode-8.3/gs/submodules/simple-knn/build/temp.linux-x86_64-3.9/spatial.o	dbd184f3d66ab470
